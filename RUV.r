@@ -5,7 +5,10 @@
 #analyses to adjust for cell type effects.
 ################################################################################################################################
 
-#(a) Top 600 CpG sites associated with the blood cell types for 27k example data was obtained from the link: http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-86 under the heading Electronic supplementary material. It can also be downloaded from google drive link mentioned under the Houseman’s method, the name of file is “WBC-Analysis-110319.RData”.
+#(a) Top 600 CpG sites associated with the blood cell types for 27k example data was obtained from the 
+#link: http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-86 under the heading 
+#Electronic supplementary material. It can also be downloaded from google drive link mentioned under the Houseman’s method, 
+#the name of file is “WBC-Analysis-110319.RData”.
 
 #(b) Code below identifies principal components related to the dna-methylation of 600 CpG sites.
 
