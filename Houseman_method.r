@@ -8,7 +8,9 @@
 #Their method was specifically for the Illumina 27k beadchip array.
 ###################################################################################################################################
 
-[Visit](https://www.google.com)
+#(a) Visit this website
+#https://drive.google.com/folderview?id=0B6IN3-9RV-LBeUt5bENMSXlsY2s&usp= sharing
+#to download all the relevant files
 
 #to download all the relevant files
 
