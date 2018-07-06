@@ -8,7 +8,7 @@
 #Their method was specifically for the Illumina 27k beadchip array.
 ###################################################################################################################################
 
-[Visit this website] (https://guides.github.com/features/mastering-markdown/)
+[Visit](https://www.google.com)
 
 #to download all the relevant files
 
