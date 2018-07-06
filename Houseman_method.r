@@ -7,7 +7,9 @@
 #sorted cell types of 46 white blood cell samples from Infinium HumanMethylation27 Beadchip  and AllCells Ⓡ , LLC (Emeryville, CA) respectively. 
 #Their method was specifically for the Illumina 27k beadchip array.
 ###################################################################################################################################
-[Visit this website](https://guides.github.com/features/mastering-markdown/)
+
+[Visit this website] (https://guides.github.com/features/mastering-markdown/)
+
 #to download all the relevant files
 
 #(b) Specify the input data in the R code by the name “Rcodes_Cell_mixture.R” on the line that reads following:
