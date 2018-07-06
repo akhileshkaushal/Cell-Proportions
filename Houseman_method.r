@@ -9,7 +9,7 @@
 ###################################################################################################################################
 
 #(a) Visit this website
-  https://drive.google.com/folderview?id=0B6IN3-9RV-LBeUt5bENMSXlsY2s&usp= sharing
+https://drive.google.com/folderview?id=0B6IN3-9RV-LBeUt5bENMSXlsY2s&usp= sharing
 #to download all the relevant files
 
 #(b) Specify the input data in the R code by the name “Rcodes_Cell_mixture.R” on the line that reads following:
